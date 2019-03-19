@@ -55,7 +55,16 @@ Deportes de montaña
 Deportes extremos
 Deportes de tiro
 </h5>
-       <img src="deporteacuatico.jpg"width="50px" height="50px">
+       <canvas height="300px" width="300px" id="micanvas"></canvas>
+
+<script>
+var canvas = document.getElementById("micanvas");
+var ctx = canvas.getContext("2d");
+var img = new Image();
+img.src = "http://img.aulambra.com/wp-content/uploads/2009/10/logo_aulambra.png";
+// Importante el onload
+img.onload = function(){
+	ctx.drawImage(img, 0, 0);
       <h5 align="center">deportes acuaticos: Son los deportes que comparten el agua como denominador común y es en ésta donde el deportista desarrolla su actividad física. Se pueden practicar tanto en piscinas como en el mar</h5>
       
        <img src="deportedeaventura.jpg"width="50px" height="50px">
