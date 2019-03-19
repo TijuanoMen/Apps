@@ -55,12 +55,7 @@ Deportes de montaña
 Deportes extremos
 Deportes de tiro
 </h5>
-       <canvas height="300px" width="300px" id="micanvas"></canvas>
-
-<script>
-var canvas = document.getElementById("micanvas");
-var ctx = canvas.getContext("2d");
-var img = new Image();
+      
 img.src = "http://img.aulambra.com/wp-content/uploads/2009/10/logo_aulambra.png";
 // Importante el onload
 img.onload = function(){
