@@ -70,7 +70,7 @@ Deportes de tiro
     <h5 align="center">En esta categoría encontrarás balones de cada una de los deportes de equipo, así como artículos específicos de baloncesto y minibasket, balonmano / thouckball, béisbol / prebéisbol, fútbol, fútbol americano y rugbi, fútbol sala, hockey / street hockey, intercrosse / lacrosse, kin-ball, kurling, mazaball, unihockey, etc...</h5>
    
    
- <img src="correr.jpg"width="50px" height="50px">
+       <img src="C:\Users\carlo\OneDrive\Imágenes\Saved Pictures\virus.jpg"width="500px" height="500px">
   <h5 align="center">Los deportes de fuerza son deportes en los cuales los participantes deben demostrar su fuerza de diferentes formas</h5>
   <img src="deportes.jpg"width="50px" height="50px">
    <h5 align="center">Un juego o deporte de pelota es un juego o deporte en el cual su elemento esencial es una pelota</h5>
